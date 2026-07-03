@@ -1,3 +1,11 @@
+SYSTEM GATEWAY: NAVIGATION
+​System Maintenance: Core logic, power grids, telluric taps, and self-audit logs.
+​Dev Labs: Prototypes, hardware, SPARK-X specs, and field-testing data.
+​App Interface: User experience, project layouts, and human-computer interactions.
+​Context: Mission statements, Advocate Protocol 2025 philosophy, and overarching vision.
+​Are you lost? Return to the main hub. ...
+
+
 Protocol: Emergency Energy Synthesis
 ​Repository: SYS-MAINTENANCE
 ​Status: Active/Committed
