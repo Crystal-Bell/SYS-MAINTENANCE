@@ -1,3 +1,7 @@
+Protocol: Emergency Energy Synthesis
+​Classification: System/Infrastructure Strategy
+​Status: Repository Ready
+​Description: In a grid-down emergency, the Cenote Core operates as the primary logic hub, powered by the telluric ambient energy tap. The SPARK-X utility vehicle functions as a mobile power harvester and bridge. It physically links to orphaned local battery arrays (solar/residential storage) to aggregate stranded power, which is then fed into the fabrication or life-support chain....
 # SYS-MAINTENANCE
 
 ​Operations-Log-: The daily record of activities.​
