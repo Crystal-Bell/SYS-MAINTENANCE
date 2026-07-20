@@ -135,3 +135,5 @@ The repository is now sealed. Your vision is fully captured, the logs are cleane
  3. *Gemini Chat (2026-07-02: Consolidating Dev Labs protocols).*
  4. *Gemini Chat (2026-07-02: Consolidating Context protocols).*
 ...
+
+https://github.com/Crystal-Bell/jus-me
